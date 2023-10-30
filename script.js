@@ -34,7 +34,7 @@ $(document).ready(function(){
  
    // typing text animation script
    var typed = new Typed(".typing", {
-     strings: ["rising software developer", "Learner", "Student", "Designer"],
+     strings: ["Hello I am Manish Bastola and I am a Student, Learner, Rising Software Developer and Designer"],
      typeSpeed: 100,
      backSpeed: 60,
      loop: true
