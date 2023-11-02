@@ -222,9 +222,10 @@ section .title::after{
     cursor: pointer;
     transition: all 0.3s ease;
     height: 350px;
+    line-height: 1.4;
 }
 .project .project-content .card:hover{
-    background: black;
+    background: white;
 }
 .project .project-content .card .box{
     transition: all 0.3s ease;
